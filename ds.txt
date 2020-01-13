@@ -1,0 +1,84 @@
+Remember those Hollywood science fiction movies that we watched during childhood or even the Bollywood movie ‘Robot’, where the Robot could even understand human emotions?
+
+Well, those may not be ‘fiction’ for long. Artificial Intelligence is the future and as crazy as it may sound, the future could no longer be in our hands – it might be in our machine’s hands! Our brains are focussed on developing AI which is taking over faster than we can imagine.
+
+Future of Artificial Intelligence
+A lot of visionaries like Stephen Hawking, Steve Wozniak, Elon Musk and others have predicted that AI could be dangerous because if machines started thinking better than humans, then where would humans be?
+
+Scared?
+
+We have the power to diffuse what we have created. What we need to know is where to draw the line.
+
+It’s overwhelming and exciting – but definitely not scary. In this article, we will discuss some compelling opportunities in the field of AI that were unthinkable in the past.
+
+Mr. Sundar Pichai, the CEO of Google once said that everything in Google is going to be AI centered which could mean that AI will create numerous job opportunities that will require creativity, critical thinking skills and much more.
+
+What is AI?
+AI includes machine learning as well as deep learning. There has been significant progress in both fields. On one hand, machine learning algorithms are helping businesses evolve, and on the other, speech recognition, image processing techniques and fingerprint patterns are taking the world by storm.
+
+We use gadgets that are intelligent and makes our everyday tasks easy. For example, Alexa can remind you about your daily appointments, keep a check on your grocery list, play your favorite music when you need, read news and even play some brain games! It is like a human companion – that is not human – but has human-like capabilities.
+
+There are restaurants where robots serve food to humans – how do they take orders? How do they walk and turn and serve food to the right customer?
+
+There are self-driving cars. How does the car know about red signals, traffic, when to move slow or fast and so on?
+
+More serious business scenarios include spam filtering, product suggestions and personalization of feeds, dynamic pricing (for example during online ticket booking), optimization (for example, getting the best route for a destination), emotion analysis and much more.
+
+To do all these needs a lot of processing behind the scenes – a lot of data is analyzed, reports are produced, new business scenarios are created and ideas just have to keep evolving.
+
+Learn more about AI from these tutorials.
+
+What’s the fuss about data science and AI?
+For Artificial Intelligence to work, ‘data’ is the key. Every single piece of data generated from the user has to be carefully examined to recognize behavioral patterns, likes, dislikes, trends and so on. When we interact with another person X or Y, the memories of X or Y remain in our brain – we remember their appearance, their voice, their expressions, their likes and much more. How does a machine do that?
+
+Data
+And that’s what Data Science is all about. Learn more about how AI and data science go hand in hand here.
+
+What the future beholds
+To understand what the future of Artificial Intelligence is, we need to know the current enhancements and state of AI as of today!
+
+The human brain is complex and different people think in different ways. There are –
+
+Learners – we are not born with the capability to make choices. We learn by experience – what to eat, what to wear, how to react in different situations. To be able to evolve and think that way, a machine should be able to learn, evolve and improve itself – just like humans.
+Reasoners – Reasoning and logic are what makes each human different and the human brain complex. Sometimes, the reasoning is simple and follows a traditional approach, but for some things, generalizations don’t work. Reasoning can be based on experiences, facts, and rules. Machines need to know all of it to be able to reason well.
+Visionaries – combining the power of learning and reasoning, visionaries are able to give the power to a machine to be able to think and perceive, to make decisions and predict.
+Linguists – for a machine to interact with humans, it should be able to talk just like human beings do. Speech recognition software processes audios into text. Significant progress in speech recognition has been a big step towards the victory of AI.
+AI system that can be compared with human intelligence should have all the 4 aspects combined into one.
+
+As humans, we learn faster, process things faster even with less data, however machines need loads of data to infer anything useful. This could change in the future, though.
+
+Let us look at each of the subfields of Artificial Intelligence, their current state and what can be expected in the future from each.
+
+Machine learning
+There has been significant progress in machine learning techniques. Machines can solve real-world problems easily by collecting, analyzing and processing data from various sources. The ultimate aim of machine learning is for the machine to be able to make decisions without human intervention. Machine learning is useful in education, medicine, search engine results, digital marketing, etc... this branch of AI has a great scope as companies rely heavily on machine learning to improve user experience.
+
+Google search engine is the biggest and well-known example of this. With speech recognition, image search, translation, and many more features, Google is sure to exploit machine learning to new levels in the future.
+Same way companies like Amazon and Flipkart provide personalized experiences to users based on their likes and dislikes. Their ML algorithms can further help users make decisions on what to buy based on their prediction results.
+Deep learning
+An extension to machine learning, deep learning can solve more complex problems and work on a lot of data to create new business scenarios. Self-driving cars, computer vision, face recognition on phone and Facebook (tags) are some great examples of deep learning. Deep learning is yet to be fully explored. Self-driving cars are yet to give 100 percent confidence to users. Recognition and classification of handwritten notes are not far from reality. The future is thus extremely promising and needs people with a lot of creative thinking and reasoning for this area of AI.
+
+Natural Language Processing
+NLP is said to be the future of businesses
+
+Virtual assistants like Alexa, Siri and Cortana are already changing the way people do everyday tasks. If instead of analyzing huge chunks of data to understand what a user wants, these assistants can know what a user wants just by asking a few questions, the need to analyze the whole chunk of data can be reduced. This kind of human interaction in a natural language can transform the way business is done.
+
+NLP can help in analyzing audio, video and text data in an easy manner and bring improvements in the field of data science. Once speech recognition gets better and machines can understand the sentiments and emotions, this could be a reality.
+
+Robotics
+This is the most promising area of AI which will make big strides in the future. Robotic engineers are constantly thinking of ways to create robots who behave like humans, interact like humans and think like humans. The future generation of engineers or today’s young minds are much interested in robotics from as early as 6-7 years and are already learning the basics of robotics. Robotics has the power to transform our future in more than one way –
+
+Education – Humanoid robots are helping students learn at their own pace and make learning personalized.
+Home – Robots connected with the cloud are able to follow instructions and run the washing machine for us, do simple cooking tasks like frying, baking, prepare the dinner table and turn on the fan for us. All these without constant intervention from humans – just a one-time setup.
+Office – In the future, robots might be able to listen to the voice, recognize and comprehend various sounds and instructions, communicate over voice commands and do simple tasks.
+Healthcare – Robots can understand a patient’s condition, diagnose their symptoms, provide initial first-aid and set up further meetings with doctors.
+Your fun companion – Robot can play games with you and interact with you. Virtual reality could very well be the buzzword for tomorrow.
+Neural networks and fuzzy logic
+There is a lot to be explored in the area of fuzzy logic. Traditional binary logic is no longer sufficient to control complex processes. Because of the non-linear characteristics of most processes, no particular mathematical model can be applied to every situation. Fuzzy logic controllers are being increasingly accepted worldwide, especially with systems that contain a lot of unstructured information and need more complex mechanisms to solve problems.
+
+Decision-making support systems
+Just like humans make decisions, computers can do that, based on human inputs. For example, a loan analysis software can give you ideas on which loan might be suitable for you based on your requirements, a stock market app will tell you how much to invest based on market conditions. In the future, these intelligent systems might be able to check the health and detect faults in a piece of machinery, detect new problems and diseases based on currently available information, suggest improvements in a logistics system and so on.
+
+Jobs and more…
+Jobs are going to be plenty – AI can never replace humans. A machine may think on its own, but it is still based on some instructions that humans give. The smartphone is smart, but is still under our control (well, if we use it judiciously).
+
+Advancements in the field of AI are plenty and the future looks good too, provided we, humans are able to use this technology for our benefit with care and caution.
